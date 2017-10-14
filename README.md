@@ -1,3 +1,11 @@
+# FIEDLER
+
+## How to run
+```
+npm install
+node server.js
+```
+
 # Search Facebook events by location, distance and search terms
 
 [![Build Status](https://travis-ci.org/tobilg/facebook-events-by-location-core.svg?branch=master)](https://travis-ci.org/tobilg/facebook-events-by-location-core)
